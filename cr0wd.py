@@ -153,27 +153,17 @@ def menu ():
 """ FUNCTION BANNER """
 def banner ():
   print """
-           _..._                                                      
-      .-'_..._''.                                     _______       
-    .' .'      '.\                                    \  ___ `'.    
-   / .'                                         _     _' |--.\  \   
-  . '             .-,.--.     .-''` ''-.  /\    \\   //| |    \  '  
-  | |             |  .-. |  .'          '.`\\  //\\ // | |     |  ' 
-  | |             | |  | | /              ` \`//  \'/  | |     |  | 
-  . '             | |  | |'                ' \|   |/   | |     ' .' 
-   \ '.          .| |  '- |         .-.    |  '        | |___.' /'  
-    '. `._____.-'/| |     .        |   |   .          /_______.'/   
-      `-.______ / | |      .       '._.'  /           \_______|/    
-               `  |_|       '._         .'                          
-                               '-....-'`                        """
+                            _ 
+   ___ _ __ _____      ____| |
+  / __| '__/ _ \ \ /\ / / _` |
+ | (__| | | (_) \ V  V | (_| |
+  \___|_|  \___/ \_/\_/ \__,_|
+                               """
   print "\n"
   print """** Tool to interact the API ThreatCrowd
-  ** Version 1.0
-  ** Author: Ignacio Brihuega Rodriguez a.k.a N4xh4ck5
-  ** Github: https://github.com/n4xh4ck5/
-  ** DISCLAMER This tool was developed for educational goals. 
-  ** The author is not responsible for using to others goals.
-  ** A high power, carries a high responsibility!"""
+  ** Version 2.0.0
+  ** From: Ignacio Brihuega Rodriguez a.k.a N4xh4ck5
+  """
 
 def help ():
   print  """ \nThis script interacts the API ThreatCrowd

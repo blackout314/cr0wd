@@ -1,4 +1,3 @@
 json
 requests
-xlsxwriter
 urllib2
